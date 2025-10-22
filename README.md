@@ -1,6 +1,6 @@
 # 👋 Abdullah Al Nayem
 
-**Software Engineer (MSc, Kingston University, UK)** with 2.5+ years’ professional experience building scalable full-stack web applications.  
+**Software Engineer (MSc, Kingston University, UK)** with 2.5+ years’ professional experience building scalable full-stack web apps.  
 Currently based in **London, UK** — open to relocation and always curious about new systems to break (and then fix better).
 
 ---
