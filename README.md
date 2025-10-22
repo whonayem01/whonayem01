@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Abdullah Al Nayem
 
-<!--
-**whonayem01/whonayem01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer (MSc, Kingston University, UK)** — focused on building **secure, scalable backends** and high-performance web apps.  
+Currently based in **London, UK** — open to relocation and always curious about new systems to break (and then fix better).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+**Backend & Cloud:** Python · Django REST · Celery · Redis · PostgreSQL · AWS (EC2, S3, RDS, CloudFront, CodeDeploy)  
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand · React Query  
+**Also Speak:** Node.js · Express · C++ · C# · GitHub Actions · Jira
+
+---
+
+## 🚀 Featured Project — *PrepWise*
+*(Section placeholder — to be added later)*
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/whonayem01)  
+- 📧 [Email](mailto:whonayem01@gmail.com)  
+- 🐙 [GitHub](https://github.com/whonayem01) — well, you’re already here... so, welcome 😄  
+
+> Always open to collaborations, ideas, or backend systems that could use an extra pair of eyes.
+
+---
+
+⭐ *Thanks for stopping by — may your builds be green and your servers stay up longer than mine.*
