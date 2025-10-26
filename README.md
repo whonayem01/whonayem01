@@ -7,7 +7,7 @@ Currently based in **London, UK** — open to relocation and always curious abou
 
 ## ⚙️ Tech Stack
 
-**Backend & Cloud:** Python · Django REST · Celery · Redis · PostgreSQL · AWS (EC2, S3, RDS, CodeDeploy)  
+**Backend & Cloud:** Python · Django REST · Celery · Redis · PostgreSQL · AWS (EC2, S3, RDS, ALB, CodeDeploy, CloudFormation)  
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand · React Query  
 **Also Speak:** Node.js · Express · C++ · C# · Git · GitHub Actions · Jira
 
