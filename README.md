@@ -21,7 +21,7 @@ Currently based in **London, UK** — open to relocation and always curious abou
 - Provides **super-personalized feedback powered by OpenAI**, analyzing not just what learners say but *how* they say it — offering context-aware corrections and rephrasing suggestions.  
 - Automated AWS deployment with **CloudFormation, CodeDeploy, and GitHub Actions CI/CD** across EC2, ALB, Auto Scaling, and RDS — supporting **zero-downtime blue-green releases** and **CloudWatch monitoring**.
 
-[Live Demo →](https://prepwise.nayem.one) &nbsp; [Repository →](https://github.com/whonayem01/prepwise-architecutre)
+[Live Demo →](https://prepwise.nayem.one) &nbsp; [Repository →](https://github.com/whonayem01/prepwise-architecture)
 
 *Designed to make IELTS prep more human — without the human examiner anxiety.*
 
