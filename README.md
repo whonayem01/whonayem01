@@ -13,7 +13,7 @@ Currently based in **London, UK** — open to relocation and always curious abou
 
 ---
 
-## 🚀 Featured Project — PrepWise
+## 🧩 Featured Project — PrepWise
 
 > **PrepWise** is an AI-powered IELTS Speaking mock platform that simulates real test interactions through **AI voice agents** — offering a true-to-life exam experience, personalized feedback, and performance insights.
 
