@@ -1,55 +1,41 @@
-# 👋 Abdullah Al Nayem — refactoring regrets into features
+# Abdullah Al Nayem
 
-**Software Engineer (MSc, Kingston University, UK)** with 2.5+ years’ professional experience building scalable full-stack web apps.  
-Currently based in **London, UK** — open to relocation and always curious about new systems to break (and then fix better).
+Software Engineer with an MSc from Kingston University London and 4+ years of experience building scalable full stack web apps. Based in London, open to relocation, and always curious about new systems to break and then fix better.
 
----
+## What I work with
 
-## ⚙️ Tech Stack
+**Backend:** Python, Django, DRF, Celery, PostgreSQL, Redis  
+**Infra:** AWS, Docker, Linux, Git, GitHub Actions, Sentry, PostHog  
+**Frontend:** React, Next.js, TypeScript, Tailwind, Zustand, React Query  
+**AI:** Claude API, OpenAI API, ElevenLabs Conversational AI
 
-**Backend & Cloud:** Python · Django REST · Celery · Redis · PostgreSQL · AWS (EC2, S3, RDS, ALB, CodeDeploy, CloudFormation)  
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand · React Query  
-**Also Speak:** Node.js · Express · C++ · C# · Git · GitHub Actions · Jira
+## What I am building: Prepwise
 
----
+An IELTS speaking practice app with AI examiners. You talk, it talks back, then it explains in detail how your grammar collapsed under pressure.
 
-## 🧩 Featured Project — PrepWise
+* Real time voice sessions over WebRTC using ElevenLabs Conversational AI
+* Transcript scoring and feedback generated through the Claude API
+* Django and DRF backend with Celery workers and Redis, running on Render
+* React Native app, live on both stores
+* Credit packs instead of a subscription, because nobody needs another subscription
 
-> **PrepWise** is an AI-powered IELTS Speaking mock platform that simulates real test interactions through **AI voice agents** — offering a true-to-life exam experience, personalized feedback, and performance insights.
+[iOS](https://apps.apple.com/us/app/prepwise-ielts/id6761788714) · [Android](https://play.google.com/store/apps/details?id=com.blacknerdstudio.prepwise) · [Web](https://prepwise.nayem.one) · [Architecture notes](https://github.com/whonayem01/prepwise-architecture)
 
-- Built using **AI voice agents (VAPI)** to replace traditional recording-based practice and costly human-led mock tests — enabling natural, interactive speaking sessions that feel like a real IELTS conversation.  
-- Provides **super-personalized feedback powered by OpenAI**, analyzing not just what learners say but *how* they say it — offering context-aware corrections and rephrasing suggestions.  
-- Automated AWS deployment with **CloudFormation, CodeDeploy, and GitHub Actions CI/CD** across EC2, ALB, Auto Scaling, and RDS — supporting **zero-downtime blue-green releases** and **CloudWatch monitoring**.
+## Before this
 
-[Live Demo →](https://prepwise.nayem.one) &nbsp; [Repository →](https://github.com/whonayem01/prepwise-architecture)
+* **Enosis Solutions.** LMS serving 50k users. Pulled p95 latency from 800ms to 280ms through query optimization.
+* **LIILab.** Email marketing pipeline on AWS handling 40k+ sends a month, with campaign queuing, delivery tracking and retry logic.
+* **MSc Software Engineering**, Kingston University London, 2025.
+* **BSc Computer Science and Engineering**, Leading University, Bangladesh.
 
-*Designed to make IELTS prep more human — without the human examiner anxiety.*
+## Things I picked up along the way
 
----
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3b29c2fe-90e4-43da-9231-8120b33c2954)
+* IEEEXtreme 14.0 country champion, 129th globally
+* 800+ problems solved on [Codeforces](https://codeforces.com/profile/blacknerd) (Specialist, max 1509) and [CodeChef](https://www.codechef.com/users/blacknerd) (max 4 star)
 
-## 🎓 Education
+## Elsewhere
 
-**MSc Software Engineering**, Kingston University — *London, UK (Sep 2024 – Sep 2025)*  
-**BSc Computer Science & Engineering**, Leading University — *Bangladesh (Jan 2018 – Jun 2022)*
+[nayem.one](https://nayem.one) · [LinkedIn](https://www.linkedin.com/in/whonayem01) · whonayem01@gmail.com
 
----
-
-## 🏆 Certifications & Achievements
-
-- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/3b29c2fe-90e4-43da-9231-8120b33c2954) — *Issued Aug 2025*  
-- **IELTExtreme 14.0** — *Country Champion (129th Globally)*  
-- **Competitive Programming:** Solved 800+ algorithmic problems  
-  - [Codeforces](https://codeforces.com/profile/blacknerd) (Specialist, Max 1509)  
-  - [CodeChef](https://www.codechef.com/users/blacknerd) (Max 4★)
- 
----
-
-## 🤝 Let's Connect
-
-[💼 LinkedIn](https://www.linkedin.com/in/whonayem01) • [📧 Email](mailto:whonayem01@gmail.com) • [🐙 GitHub](https://github.com/whonayem01) — oh, you found me already! 😄  
-
-> Let’s chat about tech, products, or why your code only breaks when someone’s watching.
-
----
-
-⭐ *Thanks for stopping by — may your builds be green and your servers stay up longer than mine.*
+Happy to talk about Django, product decisions, or why the bug only shows up in production.
